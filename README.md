@@ -1,6 +1,7 @@
 GIMP normalmap plugin
-(C) 2002-2012 Shawn Kirst <skirst@gmail.com>
 ==========================================
+(C) 2002-2012 Shawn Kirst <skirst@gmail.com>
+
 
 This is a plugin for GIMP version 2.8.x. It allows you to convert images into
 RGB normal maps for use in per-pixel lighting applications. The goal is to
@@ -23,9 +24,6 @@ replaced by either 0 or 1, or the value of a grayscale image.
 * Dynamic 3D preview window with the normalmap applied to a lit primitive
 * Parallax bump mapping for 3D preview
     
-Planned features
-==========================================    
-* Support gray and gray-alpha images.
 
 Installation
 ==========================================
